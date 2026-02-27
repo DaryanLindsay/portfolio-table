@@ -1,0 +1,21 @@
+{
+  "macro_themes": [
+    {
+      "title": "Battery Metals Enter Structural Supply Crunch",
+      "summary": "Global electrification targets are accelerating faster than new mine approvals. Chronic permitting delays and capital discipline are creating tightening supply conditions across lithium, graphite, and rare earths."
+    },
+    {
+      "title": "Energy Security Reshaping LNG Trade Flows",
+      "summary": "Long-term LNG contracts are replacing spot exposure as nations prioritize supply security. Infrastructure expansion and geopolitically aligned trade agreements are redefining global gas markets."
+    },
+    {
+      "title": "Capital Discipline Driving Mining Re-Rating",
+      "summary": "After a decade of value destruction, major miners are prioritizing balance sheet strength and shareholder returns. Reduced capex growth is supporting commodity price floors and higher equity multiples."
+    },
+    {
+      "title": "Infrastructure Rebuild Supporting Industrial Metals",
+      "summary": "Large-scale grid modernization and data center expansion are intensifying demand for copper and aluminum. Aging Western infrastructure combined with AI-driven energy consumption is reinforcing long-term metal deficits."
+    }
+  ],
+  "note": null
+}

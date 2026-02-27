@@ -1,0 +1,84 @@
+{
+  "companies": [
+    {
+      "company_name": "Atlas Lithium Corp.",
+      "ticker": "ALC",
+      "ticker_raw": "ALC/ALCF",
+      "recommendation": "Buy under US$3.80",
+      "latest_update": "Completed definitive feasibility study outlining 210,000 tpa lithium carbonate equivalent production. \u2022 Secured binding offtake agreement with Asian battery manufacturer for 60% of output. \u2022 Capex estimated at $640M with 2.4-year payback at current prices.",
+      "update_source_pdf": "2026-04.pdf"
+    },
+    {
+      "company_name": "Western Iron Holdings",
+      "ticker": "WIH",
+      "ticker_raw": "WIH/WIHF",
+      "recommendation": "Hold",
+      "latest_update": "Q1 shipments reached 18.4Mt, up 7% YoY. \u2022 Achieved C1 cash costs of $18.90/t, among lowest in peer group. \u2022 Board approved $1B share buyback program funded by excess free cash flow.",
+      "update_source_pdf": "2026-04.pdf"
+    },
+    {
+      "company_name": "Pacific LNG Partners",
+      "ticker": "PLP",
+      "ticker_raw": "PLP.UN/PLP",
+      "recommendation": "Hold",
+      "latest_update": "Signed 15-year LNG offtake contract with European utility. \u2022 Expansion train sanctioned, increasing export capacity by 3.2 mtpa. \u2022 Distributable cash flow increased 9% quarter-over-quarter.",
+      "update_source_pdf": "2026-04.pdf"
+    },
+    {
+      "company_name": "Red Ridge Rare Earths",
+      "ticker": "RRE",
+      "ticker_raw": "RRE/RREF",
+      "recommendation": "Hold",
+      "latest_update": "Metallurgical testing achieved 82% recovery for NdPr concentrate. \u2022 Pilot plant construction underway targeting Q4 commissioning. \u2022 Strategic investment received from U.S. defense supplier.",
+      "update_source_pdf": "2026-04.pdf"
+    },
+    {
+      "company_name": "Silver Crest Streaming",
+      "ticker": "SCS",
+      "ticker_raw": "SCS/SCSF",
+      "recommendation": "Buy under US$6.20",
+      "latest_update": "Acquired 2% NSR on producing Mexican silver mine for $75M. \u2022 Transaction expected to increase annual attributable silver ounces by 1.1M. \u2022 Portfolio now 70% weighted to producing assets.",
+      "update_source_pdf": "2026-04.pdf"
+    },
+    {
+      "company_name": "North Sea Energy Ltd.",
+      "ticker": "NSE",
+      "ticker_raw": "NSE/NSEF",
+      "recommendation": "Hold",
+      "latest_update": "Completed appraisal well confirming 42MMbbl recoverable light oil. \u2022 Break-even estimated at $42 Brent. \u2022 Farm-out discussions ongoing to reduce development capex exposure.",
+      "update_source_pdf": "2026-04.pdf"
+    },
+    {
+      "company_name": "Copper Basin Explorations",
+      "ticker": "CBX",
+      "ticker_raw": "CBX/CBXF",
+      "recommendation": "Buy",
+      "latest_update": "Drilled 168.0m at 1.9% CuEq including 36.5m at 4.7% CuEq. \u2022 Geophysical survey indicates 2.3km strike extension. \u2022 Maiden resource estimate targeted for early 2027.",
+      "update_source_pdf": "2026-04.pdf"
+    },
+    {
+      "company_name": "Frontier Potash Corp.",
+      "ticker": "FPC",
+      "ticker_raw": "FPC/FPCF",
+      "recommendation": "Hold",
+      "latest_update": "Completed bulk sample confirming 95% KCl purity. \u2022 Negotiating long-term supply contracts with South American fertilizer distributors. \u2022 Updated PEA shows IRR of 28% at conservative pricing.",
+      "update_source_pdf": "2026-04.pdf"
+    },
+    {
+      "company_name": "Arctic Graphite Ltd.",
+      "ticker": "AGL",
+      "ticker_raw": "AGL/AGLF",
+      "recommendation": "Hold",
+      "latest_update": "Battery-grade spherical graphite testing achieved 99.95% purity. \u2022 Signed memorandum of understanding with EV anode manufacturer. \u2022 Environmental baseline studies advancing toward permitting stage.",
+      "update_source_pdf": "2026-04.pdf"
+    },
+    {
+      "company_name": "Emerald Timber Resources",
+      "ticker": "ETR",
+      "ticker_raw": "ETR/ETRF",
+      "recommendation": "Hold",
+      "latest_update": "Q1 lumber sales increased 14% due to U.S. housing rebound. \u2022 EBITDA margin expanded to 27%. \u2022 Announced special dividend funded by improved pricing environment.",
+      "update_source_pdf": "2026-04.pdf"
+    }
+  ]
+}
