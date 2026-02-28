@@ -140,13 +140,18 @@ const fetchFirstOk = async (paths) => {
 
 const loadData = async () => {
   try {
+      
     const [companyJson, themeJson] = await Promise.all([
       fetchFirstOk([
-        "/build/active_company_cards.json",
-        "../build/active_company_cards.json",
+        "./build/active_company_cards.json",
+        "build/active_company_cards.json"
       ]),
-      fetchFirstOk(["/build/macro_themes.json", "../build/macro_themes.json"]),
+      fetchFirstOk([
+        "./build/macro_themes.json",
+        "build/macro_themes.json"
+      ]),
     ]);
+
 
     renderThemes(companyJson?.note ? themeJson.macro_themes || [] : themeJson.macro_themes || []);
     renderCompanies(companyJson.companies || []);
